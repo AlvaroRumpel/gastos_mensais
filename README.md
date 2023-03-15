@@ -1,16 +1,11 @@
-# gastos_mensais
+# Gastos Mensais
 
-A new Flutter project.
+This application was developed with the focus of being useful when calculating bills and dividing people up.
 
-## Getting Started
+Simple app for personal use and for study, updates will come in the future
 
-This project is a starting point for a Flutter application.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-A few resources to get you started if this is your first Flutter project:
+Aplicativo desenvolvido com o foco de utilidade na hora de calcular as contas e fazer divisão entre pessoas.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+App simples voltado para uso pessoal e para estudo, atualizações virão no futuro
