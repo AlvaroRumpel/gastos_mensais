@@ -1,4 +1,4 @@
-package com.example.gastos_mensais
+package com.acr.month_expenses
 
 import io.flutter.embedding.android.FlutterActivity
 
